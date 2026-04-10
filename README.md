@@ -25,3 +25,4 @@ or in case of a bug, write a short description in <a target="_blank" href="https
 
 ## License
 This project is licensed under the <a href="https://github.com/vellt/GetX-Stream-Music-Player-Flutter/blob/main/LICENSE">MIT License</a>
+# Music-Player-Flutter
